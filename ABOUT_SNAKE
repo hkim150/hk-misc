@@ -1,0 +1,3 @@
+It is a classic game written in C++.
+The snake's body length increases as a player gets more stars.
+Its move speed increases for every 5 stars gained
