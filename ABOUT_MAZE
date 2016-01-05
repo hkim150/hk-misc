@@ -1,0 +1,2 @@
+It is a simple game written in C++, which requires a player to find the way to reach an exit.
+I have included a menu where the player can watch a replay and shortest route to the exit.
