@@ -1,2 +1,2 @@
 # hk-projects
-Collection of my projects
+- Collection of miscellaneous projects
